@@ -1,1 +1,1 @@
-My second readme file
+Learning to becoming a software engineering
